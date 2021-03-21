@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## BTS 챗봇
+
+BTS 챗봇 예제입니다.
 
 You can use the [editor on GitHub](https://github.com/songej/BTSbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
